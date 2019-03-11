@@ -1,0 +1,1 @@
+78  ls   79  cd Desktop   80  git clone https://github.com/IIC2115/Syllabus.git   81  git clone https://github.com/niherrera/L0.git   82  git add    83  cd L0   84  gid add   85  git add   86  git add all   87  git add *   88  git commit -m"Subiendo texto"   89  git push   90  git pull   91  history
